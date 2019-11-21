@@ -19,5 +19,6 @@ You will have to create a new add-in that uses this code.  Let us know if you ne
 
 ## Notes	
 1. This was put together a bit hastily for AU.  We plan to develop this further
-2. New development might be slow, because the team no longer has access to Revit
-3. Any additions / revisions / input is welcome. 
+2. This was developed for Revit 2020.  It may not work for previous versions, but it should probably work in recent versions.
+3. New development might be slow, because the team no longer has access to Revit
+4. Any additions / revisions / input is welcome. 
